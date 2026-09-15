@@ -1,0 +1,3 @@
+1.6.5
+https://github.com/tradingwithtamil/rust-desk-downloads/releases/download/v1.6.5/RD-Connect-macOS-v1.6.5-arm64.dmg
+a5f57d151b106932b4f892711ee8c66957bc87ea7e86f21aa78666f42f14e6eb
