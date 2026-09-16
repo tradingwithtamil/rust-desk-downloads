@@ -2,7 +2,7 @@
   "ok": true,
   "windowsVersion": "1.6.6",
   "windowsUpdateUrl": "https://github.com/tradingwithtamil/rust-desk-downloads/releases/download/v1.6.6/RD-Connect-Windows-v1.6.6.exe",
-  "windowsUpdateSha256": "4137cd6245039f7a63ad65a0b0b6524ccc0aa3479d7eb25c7ec87fdf55e21cef",
+  "windowsUpdateSha256": "aafd8033c3262ace39825da37370b66e4d217a4915234aae519fb33c7bd6925c",
   "macVersion": "1.6.5",
   "macUpdateUrl": "https://github.com/tradingwithtamil/rust-desk-downloads/releases/download/v1.6.5/RD-Connect-macOS-v1.6.5-arm64.dmg",
   "macUpdateSha256": "a5f57d151b106932b4f892711ee8c66957bc87ea7e86f21aa78666f42f14e6eb",
